@@ -1,0 +1,13 @@
+source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'pry'
+gem 'rest-client'
+gem 'json'
+gem 'report_builder'
+gem 'nokogiri'
+gem 'httparty'
+gem 'respec'
+gem 'reportportal', git: 'https://github.com/reportportal/agent-ruby.git'
+gem 'rubytree', git: 'https://github.com/razboev/RubyTree'

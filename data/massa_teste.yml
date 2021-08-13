@@ -1,0 +1,16 @@
+#Cadastro1
+  Nome: Arthur
+  email_cadastrado: "email@mail.com"
+  email_ncadastrado: "tututr@gmail.com"
+  senha: testeteste
+
+#Cadastro2
+  Nome: Marcelo
+  email_cadastrado: "email@mail.com"
+  email_ncadastrado2: "marcelo@gmail.com"
+  senha: testeteste
+
+#Cadastro3
+name: "Marlon Brando Tester 4",
+email: "mbranddo764@gmail.com",
+password: "testeCorleone3"
